@@ -48,3 +48,29 @@ nav {
     font-size: 70px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+.title__container h4 {
+    margin-top: 40px;
+    font-size: 22px;
+    color: rgb(121, 129, 141);
+}
+
+.title__container input {
+    height: 40px;
+    text-align: center;
+    border: 2px solid #7d7682;
+    background: none;
+    border-radius: 10 px;
+    color: #7d7682;
+    font-size: 13px;
+    padding: 0px 16px;
+    margin: 58px, 14px, 14px;
+}
+
+.about_me_container h2 {
+    text-align: center;
+    border-bottom: 2px solid black;
+    width: 110px;
+    font-size: 20px;
+    margin: 0 auto;
+}
